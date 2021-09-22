@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addCar"
+        android:title="Add Car" />
+    <item
+        android:id="@+id/removeLastCar"
+        android:title="Remove Last Car" />
+
+    <item
+        android:id="@+id/removeAllCars"
+        android:title="Remove all Car" />
+
+    <item
+        android:id="@+id/listAllItems"
+        android:title="List All Items" />
+
+    <item
+        android:id="@+id/totalCars"
+        android:title="Total Cars" />
+
+    <item
+        android:id="@+id/totalCost"
+        android:title="Total Cost" />
+
+    <item
+        android:id="@+id/aveCost"
+        android:title="Average Cost" />
+
+</menu>

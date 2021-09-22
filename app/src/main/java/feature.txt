@@ -1,0 +1,11 @@
+I added 3 new navigation menu bars that call the local car database and retrieve the values
+from it to get the answers and represent the answer in a toast
+
+The new features can update the answer when new information is added
+or retrieving the old data that was saved in the app
+when the app is destroyed and then created again
+
+The new menu bars are Total Cars, Total Cost and Average Cost
+Total Cars gets all the cars in the application from the local database
+Total Cost gets the total cost of all the cars in the application from the local database
+Average Cost gets the average cost of all the cars in the application from the local database

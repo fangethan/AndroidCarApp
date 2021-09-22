@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997051181010",
+    "firebase_url": "https://carappweek8-fd585-default-rtdb.firebaseio.com",
+    "project_id": "carappweek8-fd585",
+    "storage_bucket": "carappweek8-fd585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997051181010:android:8d6fcfedf3fcaffce20a0b",
+        "android_client_info": {
+          "package_name": "com.example.carappweek5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997051181010-m9p9mju1a0q67e4joo6o4ad5ut3pkig1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhqlxKoVaT0uEJ4ezIfUK2hDSvzMMXco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997051181010-m9p9mju1a0q67e4joo6o4ad5ut3pkig1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
